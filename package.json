@@ -1,0 +1,22 @@
+{
+  "name": "codice-sconto-intimissimi",
+  "version": "1.0.0",
+  "description": "Recupero automatico di codici sconto Intimissimi da shopilo.it",
+  "main": "index.js",
+  "keywords": [
+    "codice-sconto",
+    "codice-sconto-intimissimi",
+    "voucher-intimissimi",
+    "coupon-intimissimi",
+    "sconti",
+    "shopilo",
+    "coupon"
+  ],
+  "author": "shopilo-it",
+  "license": "MIT",
+  "homepage": "https://shopilo.it/negozi/intimissimi.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-it/codice-sconto-intimissimi.git"
+  }
+}
